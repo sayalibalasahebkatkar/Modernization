@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Nov 26 10:58:39 IST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-017d-5ab7-8fd2-000002a4fc78 
+on database directory memory:C:\Users\Reliance Digital\Downloads\Opportunity-Service\3318c04d-e118-4da5-8c35-7c0a7b293aef with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Users/Reliance%20Digital/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=16.0.1+9-24
+user.dir=C:\Users\Reliance Digital\Downloads\Opportunity-Service
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
